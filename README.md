@@ -35,14 +35,14 @@ En este documento se expone cómo el proceso de **corrección manual de evaluaci
 
 ## 4. Comparativa entre Procesos
 
-| Aspecto                    | Proceso Tradicional              | Solución con IA                         |
-|----------------------------|----------------------------------|-----------------------------------------|
-| Tiempo de corrección        | Lento (días o semanas)            | Rápido (minutos o pocas horas)          |
-| Consistencia en evaluación | Variable                          | Alta y objetiva                         |
-| Calidad de retroalimentación| Dependiente de la carga laboral   | Constante y detallada                   |
-| Satisfacción docente        | Baja (por carga excesiva)         | Alta (menos carga repetitiva)           |
+| Aspecto                     | Proceso Tradicional                 | Solución con IA                         |
+|-----------------------------|-------------------------------------|-----------------------------------------|
+| Tiempo de corrección        | Lento (días o incluso semanas)     | Rápido (minutos o pocas horas)          |
+| Consistencia en evaluación  |Variable                            | Alta y objetiva                         |
+| Calidad de retroalimentación| Dependiente de la carga laboral    | Constante y detallada                   |
+| Satisfacción docente        | Baja (por carga excesiva)          | Alta (menos carga repetitiva)           |
 | Impacto en el aprendizaje   | Menor, por retroalimentación tardía| Mayor, gracias a la retroalimentación inmediata |
 
 ## 5. Reflexión Personal
 
-La aplicación de IA en la educación no debe entenderse como una sustitución del docente, sino como un apoyo para optimizar procesos repetitivos y fortalecer el acompañamiento personalizado al estudiante. Es fundamental diseñar sistemas de IA que respeten la diversidad de estilos de respuesta, permitan intervención humana cuando sea necesario y eviten perpetuar sesgos que puedan afectar a ciertos grupos de alumnos.
+La inteligencia artificial en educación no viene a reemplazar a los docentes, sino a ser una herramienta que les permita enfocarse en lo que realmente importa, acompañar de forma personalizada a sus estudiantes. Es clave que estas soluciones respeten la variedad de formas en que los alumnos se expresan, que siempre dejen espacio para la intervención humana y que estén diseñadas pensando en la equidad, para no reforzar ningún tipo de inclinacion o desigualdad.
