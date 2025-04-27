@@ -1,3 +1,5 @@
+![Image_Alt](https://github.com/AndresN329/Desafio-IA-Transformacion-Procesos-De-Educacion/blob/cd98791db1a4d3aa9e5dff6f0762990ce9b7aeaa/Imagen%20Readme.png)
+
 # Desafío IA: Transformando un Proceso Tradicional
 
 ## 1. Introducción
